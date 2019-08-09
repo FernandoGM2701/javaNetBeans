@@ -2,9 +2,9 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package primergit;
+package procesoImagen;
 
-import primergit.ProcesamientoImagen;
+import procesoImagen.ProcesamientoImagen;
 import java.awt.Image;
 import java.awt.image.BufferedImage;
 import javax.swing.ImageIcon;

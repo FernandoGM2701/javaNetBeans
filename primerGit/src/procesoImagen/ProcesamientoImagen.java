@@ -1,5 +1,5 @@
  
-package primergit;
+package procesoImagen;
 
 import java.awt.Color;
 import java.awt.image.BufferedImage;
